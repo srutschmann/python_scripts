@@ -1,1 +1,2 @@
-# this repositoy contains scripts used to process the *Cloeon* nDNA dataset (Rutschmann *et al.* 2016)
+# this repositoy contains scripts used to process data from different manuscript, including
+- *Cloeon* nDNA dataset (Rutschmann *et al.* 2016)
